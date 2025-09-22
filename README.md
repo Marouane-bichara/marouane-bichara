@@ -1,5 +1,9 @@
 <!-- Marouane Bichara GitHub Profile -->
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/182564883?v=4" alt="Marouane Bichara" width="150" height="150" style="border-radius:50%;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Marouane Bichara</h1>
 <h3 align="center">🎓 Student @ YouCode (UM6P) | 💻 Full Stack Developer | 🚀 Problem Solver</h3>
 
