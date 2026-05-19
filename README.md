@@ -1,7 +1,7 @@
 <!-- Marouane Bichara GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm Marouane Bichara</h1>
-<h3 align="center">🎓 Student @ YouCode (UM6P) | 💻 Full Stack Developer | 🚀 Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver</h3>
 
 ---
 
